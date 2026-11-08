@@ -1,0 +1,15 @@
+# Group-level facts. Unknown = "TODO: ask Ahsan".
+name: Assorted Group
+domain: agents.assorted.group   # pending Ahsan confirmation
+summary: TODO: ask Ahsan
+contact:
+  email: hello@assorted.group
+  address:
+    street: "FF27 Zarpar Arcade, D-12 Markaz"
+    city: Islamabad
+    country: Pakistan
+same_as:
+  linkedin: TODO: ask Ahsan
+logo: TODO: ask Ahsan
+brand_accent_color: TODO: ask Ahsan
+last_updated: 2026-11-08

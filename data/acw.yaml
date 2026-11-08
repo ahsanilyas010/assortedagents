@@ -1,0 +1,27 @@
+# Source of truth for /acw/. Do not invent facts. Unknown = "TODO: ask Ahsan".
+slug: acw
+legal_name: "Assorted CoWorking"
+summary: "Coworking space."
+what_it_does: TODO: ask Ahsan
+services_or_products:
+  - TODO: ask Ahsan
+serves:
+  - TODO: ask Ahsan
+locations_served:
+  - TODO: ask Ahsan
+pricing: TODO: ask Ahsan   # leave as "Not public" if there is none
+how_to_engage: TODO: ask Ahsan   # how to buy or hire
+contact:
+  email: hello@assorted.group
+  phone: TODO: ask Ahsan
+  address:
+    street: "FF27 Zarpar Arcade, D-12 Markaz"
+    city: Islamabad
+    country: Pakistan
+canonical_url: TODO: ask Ahsan   # existing live site
+same_as:
+  linkedin: TODO: ask Ahsan
+faqs:
+  - q: TODO: ask Ahsan
+    a: TODO: ask Ahsan
+last_updated: 2026-11-08
