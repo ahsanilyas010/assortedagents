@@ -1,0 +1,12 @@
+{
+  "name": "assorted-agents-hub",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build && node scripts/check-todos.mjs dist",
+    "todos": "node scripts/list-todos.mjs",
+    "preview": "astro preview"
+  }
+}
