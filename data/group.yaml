@@ -1,7 +1,7 @@
 # Group-level facts. Unknown = "TODO: ask Ahsan".
 name: Assorted Group
 domain: agents.assorted.group   # pending Ahsan confirmation
-summary: TODO: ask Ahsan
+summary: "TODO: ask Ahsan"
 contact:
   email: hello@assorted.group
   address:
@@ -9,7 +9,7 @@ contact:
     city: Islamabad
     country: Pakistan
 same_as:
-  linkedin: TODO: ask Ahsan
-logo: TODO: ask Ahsan
-brand_accent_color: TODO: ask Ahsan
+  linkedin: "TODO: ask Ahsan"
+logo: "TODO: ask Ahsan"
+brand_accent_color: "TODO: ask Ahsan"
 last_updated: 2026-11-08
